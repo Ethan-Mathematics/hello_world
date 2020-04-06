@@ -1,2 +1,5 @@
 # hello_world
-practising making repositories
+=
+Hi world!
+
+Im Ethan, I like maths and qunatum computing.
